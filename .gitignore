@@ -1,0 +1,11 @@
+/project/*
+/target/*
+/.worksheet/*
+/.settings/*
+*.cache
+*.classpath
+*.project
+*.class
+activator*
+LICENSE
+src/main/scala/sloshy/repl.sc
